@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarbaberwal" alt="kumarbaberwal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@aapkaakumar" target="blank"><img src="https://img.shields.io/twitter/follow/@aapkaakumar?logo=twitter&style=for-the-badge" alt="@aapkaakumar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aapkaakumar" target="blank"><img src="https://img.shields.io/twitter/follow/aapkaakumar?logo=twitter&style=for-the-badge" alt="aapkaakumar" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Basic Projects**
 
@@ -21,13 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aapkaakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aapkaakumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrniteshkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrniteshkumar/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25580274/nitesh-kumar?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25580274/nitesh-kumar?tab=profile" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kumar_baberwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kumar_baberwal/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@strange_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@strange_coder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/niteshkumarghn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/niteshkumarghn1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kumarbaberwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kumarbaberwal/" height="30" width="40" /></a>
+<a href="https://twitter.com/aapkaakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aapkaakumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrniteshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrniteshkumar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nitesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nitesh-kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/kumar_baberwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_baberwal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/strange_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="strange_coder" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/niteshkumarghn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niteshkumarghn1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kumarbaberwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarbaberwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
