@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, DSA in Python, Daily Leetcode**
 
-- 👨‍💻 All of my projects are available at [https://kumarbaberwal.vercel.app/](https://kumarbaberwal.vercel.app)
+- 👨‍💻 All of my projects are available at [https://kumarbaberwal.vercel.app](https://kumarbaberwal.vercel.app)
 
 - 💬 Ask me about **Python, Django, Flutter, Dart, Html, CSS, JavaScript**
 
